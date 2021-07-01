@@ -9,7 +9,7 @@ Um grupo de amigos, preocupados por ter que prestar o ENEM este ano, resolveu in
 1 ≤ A ≤ N<br>
 1 ≤ Pi ≤ N para 1 ≤ i ≤ A<br>
 
-<h3>Exemplo</h3><br>
+<h3>Exemplo</h3>
 Entrada<br>
 4 3<br>
 2 1<br>
