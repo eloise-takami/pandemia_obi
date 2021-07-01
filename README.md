@@ -9,11 +9,7 @@ Um grupo de amigos, preocupados por ter que prestar o ENEM este ano, resolveu in
 1 ≤ A ≤ N<br>
 1 ≤ Pi ≤ N para 1 ≤ i ≤ A<br>
 
-<h2>Informações sobre a pontuação</h2><br>
-Para um conjunto de casos de testes valendo 20 pontos, N ≤ 10 e M ≤ 10.<br>
-Para um conjunto de casos de testes valendo 60 pontos, 10 < N ≤ 500 e 10 < M ≤ 500.<br>
-Para um conjunto de casos de testes valendo 20 pontos, nenhuma restrição adicional.<br>
-Exemplo<br>
+<h3>Exemplo</h3><br>
 Entrada<br>
 4 3<br>
 2 1<br>
